@@ -16,4 +16,4 @@ echo "admin:$(openssl passwd -apr1 YourStrongPassword)" | sudo tee -a /etc/nginx
 
 Installing ELK ELB Instance https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-create-https-ssl-load-balancer.html
 
-configuring Nginx /etc/nginx/site-available/kibana.conf
+configuring Nginx /etc/nginx/site-available/example.conf
